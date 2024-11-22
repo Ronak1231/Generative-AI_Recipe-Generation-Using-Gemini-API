@@ -65,7 +65,7 @@ streamlit run app.py
 
 ---
 
-## How to Use
+## 🤔How to Use
 
 1. Open the app in your browser (Streamlit will provide a local URL after running the app).
 2. Log in or register to create a new account.
@@ -75,7 +75,7 @@ streamlit run app.py
 
 ---
 
-## Acknowledgments
+## 🤝Acknowledgments
 
 - [Google Gemini API](https://developers.generativeai.google.com/) for powering the recipe generation.
 - [Streamlit](https://streamlit.io/) for creating the interactive app.
