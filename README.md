@@ -75,12 +75,6 @@ streamlit run app.py
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Acknowledgments
 
 - [Google Gemini API](https://developers.generativeai.google.com/) for powering the recipe generation.
