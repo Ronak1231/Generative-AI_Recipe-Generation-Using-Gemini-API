@@ -79,3 +79,24 @@ streamlit run app.py
 
 - [Google Gemini API](https://developers.generativeai.google.com/) for powering the recipe generation.
 - [Streamlit](https://streamlit.io/) for creating the interactive app.
+
+---
+
+## ✍️ Author  
+Ronak Bansal
+
+---
+
+## 🙌 Contributing  
+Feel free to fork this repository, make improvements, and submit a pull request.  
+
+---
+
+## 🐛 Troubleshooting  
+If you encounter issues, please create an issue in this repository.  
+
+---
+
+## 📧 Contact  
+For inquiries or support, contact [ronakbansal12345@gmail.com].  
+
