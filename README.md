@@ -2,7 +2,7 @@
 
 This repository contains a **Recipe Generator App** that uses **Google Gemini API** to generate recipes based on user inputs such as cuisine type, dietary preferences, cooking time, and ingredients. The app also allows users to log in/register, generate recipes, and view their recipe history.
 
-## Features
+## ⚙️Features
 
 - **User Authentication**: Login and registration functionality.
 - **Recipe Generation**: Generate recipes based on user inputs such as ingredients, cuisine, dietary preferences, and cooking time.
@@ -11,7 +11,7 @@ This repository contains a **Recipe Generator App** that uses **Google Gemini AP
 
 ---
 
-## Prerequisites
+## 📋Prerequisites
 
 1. Python 3.8 or higher installed.
 2. `pip` (Python package installer).
@@ -19,7 +19,7 @@ This repository contains a **Recipe Generator App** that uses **Google Gemini AP
 
 ---
 
-## Installation and Setup
+## 🛠️Installation and Setup
 
 ### Step 1: Clone the Repository
 
@@ -48,7 +48,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Step 4: Set Up Environment Variables
+### ✨Step 4: Set Up Environment Variables
 
 1. Create a `.env` file in the project directory.
 2. Add the following line to the `.env` file, replacing `YOUR_API_KEY` with your Google Gemini API Key:
