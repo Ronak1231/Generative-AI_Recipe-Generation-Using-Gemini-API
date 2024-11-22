@@ -1,4 +1,4 @@
-# 🧇Recipe Generation Using Gemini API 
+# 🥞Recipe Generation Using Gemini API 
 
 This repository contains a **Recipe Generator App** that uses **Google Gemini API** to generate recipes based on user inputs such as cuisine type, dietary preferences, cooking time, and ingredients. The app also allows users to log in/register, generate recipes, and view their recipe history.
 
